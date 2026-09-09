@@ -1,3 +1,1 @@
-kivy==2.3.0
-kivymd
-requests
+flet
